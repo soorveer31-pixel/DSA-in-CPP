@@ -6,6 +6,6 @@ int main(){
     cout<<"Enter the number: ";
     cin>>num;
 
-    
+    cout<<"Hello World";
     return 0;
 }
